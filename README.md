@@ -14,7 +14,7 @@ Starts with http://	                                                     Starts 
 SEO (Search engine optimization)ranking: to rank our website by calculating Traffic.
   
 HTTPS (https://github.com/Anonyme1396/security-tips/blob/master/https.md)
-
+https://robertheaton.com/2014/03/27/how-does-https-actually-work/
 1. What is HTTPS and what does it do?
 HTTPS takes the well-known and understood HTTP protocol, and simply layers a SSL/TLS (hereafter referred to simply as “SSL”) encryption layer on top of it. Servers and clients still speak exactly the same HTTP to each other, but over a secure SSL connection that encrypts and decrypts their requests and responses. The SSL layer has 2 main purposes:
 
